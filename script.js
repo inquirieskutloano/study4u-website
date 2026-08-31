@@ -132,6 +132,17 @@ const worksheets = {
       
     },
 
+        {
+            title: "Royal schools past papers",
+            description: "Past papers",
+            file: "worksheets/Math/Grade-4-Mathematics-Paper-1-QP-2024"
+        },
+
+        {
+            title: "Royal schools past paers",
+            description: "Past papers",
+            file: "worksheets/Math/Grade-4-Mathematics-Paper-2-QP-2024"
+        },
 
           {
         title: "Math worksheets ",
