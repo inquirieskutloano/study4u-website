@@ -248,6 +248,11 @@ const worksheets = {
     ss: [
 
         // Add SS PDFs here
+          {
+        title: "SS study Material ",
+        description: "SS",
+        file: "worksheets/SS/Study-Material-SS.pdf"
+    }
 
     ],
 
@@ -259,11 +264,7 @@ const worksheets = {
     nst: [
 
         // Add NST PDFs here
-          {
-        title: "Natural science study Material ",
-        description: "Natural Science and Technology",
-        file: "worksheets/NST/Study-Material-NST.pdf"
-    }
+        
 
     ],
 
