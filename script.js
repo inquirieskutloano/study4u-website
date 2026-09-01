@@ -262,7 +262,7 @@ const worksheets = {
           {
         title: "Natural science study Material ",
         description: "Natural Science and Technology",
-        file: "worksheets/nst/Study-Material-NST.pdf"
+        file: "worksheets/NST/Study-Material-NST.pdf"
     },
 
     ],
