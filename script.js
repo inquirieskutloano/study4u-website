@@ -259,6 +259,11 @@ const worksheets = {
     nst: [
 
         // Add NST PDFs here
+          {
+        title: "Natural science study Material ",
+        description: "Natural Science and Technology",
+        file: "worksheets/nst/Study-Material-NST.pdf"
+    },
 
     ],
 
