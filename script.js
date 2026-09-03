@@ -257,7 +257,7 @@ const worksheets = {
           {
         title: "SS study Material ",
         description: "SS",
-        file: "worksheets/SS/Study-Material-SS.pdf"
+        file: "worksheets/SS/SS-GEOSTUDYMATERIAL.pdf"
     },
 
     ],
